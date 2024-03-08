@@ -38,7 +38,7 @@ public class CustomerUsersDetailsService implements UserDetailsService {
         user.setPassword(null);
         return userDetail;
     }
-    //checking pupose
+    //checking purpose*************************
 
 }
 
